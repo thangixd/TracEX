@@ -1,6 +1,7 @@
 # Event Log Extraction from Natural Text with Generative AI
 
-You can access all materials related to my bachelor thesis, "Event Log Extraction from Natural Text with Generative AI," in the directory: docs/bachelor-thesis-event-log-extraction-from-natural-text-with-gen-ai. 
+You can access all materials related to my bachelor thesis, "Event Log Extraction from Natural Text with Generative AI," in [Bachelor Thesis Materials](https://github.com/thangixd/TracEX/tree/main/docs/bachelor-thesis-event-log-extraction-from-natural-text-with-gen-ai). 
+
 This includes the evaluation data collected during the assessment of my framework. Additionally, I have provided a file containing all the prompts used in my thesis. 
 Both these prompts and the framework itself have been integrated into the TraceX extraction app on this branch. To use them, simply follow the instructions provided within TraceX.
 
