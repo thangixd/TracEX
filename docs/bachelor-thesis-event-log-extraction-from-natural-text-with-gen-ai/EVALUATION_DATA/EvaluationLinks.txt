@@ -1,0 +1,35 @@
+Patient Journey 1
+
+https://htmlpreview.github.io/?https://github.com/thangixd/TracEX/blob/main/docs/bachelor-thesis-event-log-extraction-from-natural-text-with-gen-ai/EVALUATION_DATA/PJ1_EVAL/PJ1_1/Trace%20Comparison%20Result.html
+https://htmlpreview.github.io/?https://github.com/thangixd/TracEX/blob/main/docs/bachelor-thesis-event-log-extraction-from-natural-text-with-gen-ai/EVALUATION_DATA/PJ1_EVAL/PJ1_2/Trace%20Comparison%20Result.html
+https://htmlpreview.github.io/?https://github.com/thangixd/TracEX/blob/main/docs/bachelor-thesis-event-log-extraction-from-natural-text-with-gen-ai/EVALUATION_DATA/PJ1_EVAL/PJ1_3/Trace%20Comparison%20Result.html
+https://htmlpreview.github.io/?https://github.com/thangixd/TracEX/blob/main/docs/bachelor-thesis-event-log-extraction-from-natural-text-with-gen-ai/EVALUATION_DATA/PJ1_EVAL/PJ1_4/Trace%20Comparison%20Result.html
+https://htmlpreview.github.io/?https://github.com/thangixd/TracEX/blob/main/docs/bachelor-thesis-event-log-extraction-from-natural-text-with-gen-ai/EVALUATION_DATA/PJ1_EVAL/PJ1_5/Trace%20Comparison%20Result.html
+
+Patient Journey 2
+https://htmlpreview.github.io/?https://github.com/thangixd/TracEX/blob/main/docs/bachelor-thesis-event-log-extraction-from-natural-text-with-gen-ai/EVALUATION_DATA/PJ2_EVAL/PJ2_1/Trace%20Comparison%20Result.html
+https://htmlpreview.github.io/?https://github.com/thangixd/TracEX/blob/main/docs/bachelor-thesis-event-log-extraction-from-natural-text-with-gen-ai/EVALUATION_DATA/PJ2_EVAL/PJ2_2/Trace%20Comparison%20Result.html
+https://htmlpreview.github.io/?https://github.com/thangixd/TracEX/blob/main/docs/bachelor-thesis-event-log-extraction-from-natural-text-with-gen-ai/EVALUATION_DATA/PJ2_EVAL/PJ2_3/Trace%20Comparison%20Result.html
+https://htmlpreview.github.io/?https://github.com/thangixd/TracEX/blob/main/docs/bachelor-thesis-event-log-extraction-from-natural-text-with-gen-ai/EVALUATION_DATA/PJ2_EVAL/PJ2_4/Trace%20Comparison%20Result.html
+https://htmlpreview.github.io/?https://github.com/thangixd/TracEX/blob/main/docs/bachelor-thesis-event-log-extraction-from-natural-text-with-gen-ai/EVALUATION_DATA/PJ2_EVAL/PJ2_5/Trace%20Comparison%20Result.html
+
+Patient Journey 3
+https://htmlpreview.github.io/?https://github.com/thangixd/TracEX/blob/main/docs/bachelor-thesis-event-log-extraction-from-natural-text-with-gen-ai/EVALUATION_DATA/PJ3_EVAL/PJ3_1/Trace%20Comparison%20Result.html
+https://htmlpreview.github.io/?https://github.com/thangixd/TracEX/blob/main/docs/bachelor-thesis-event-log-extraction-from-natural-text-with-gen-ai/EVALUATION_DATA/PJ3_EVAL/PJ3_2/Trace%20Comparison%20Result.html
+https://htmlpreview.github.io/?https://github.com/thangixd/TracEX/blob/main/docs/bachelor-thesis-event-log-extraction-from-natural-text-with-gen-ai/EVALUATION_DATA/PJ3_EVAL/PJ3_3/Trace%20Comparison%20Result.html
+https://htmlpreview.github.io/?https://github.com/thangixd/TracEX/blob/main/docs/bachelor-thesis-event-log-extraction-from-natural-text-with-gen-ai/EVALUATION_DATA/PJ3_EVAL/PJ3_4/Trace%20Comparison%20Result.html
+https://htmlpreview.github.io/?https://github.com/thangixd/TracEX/blob/main/docs/bachelor-thesis-event-log-extraction-from-natural-text-with-gen-ai/EVALUATION_DATA/PJ3_EVAL/PJ3_5/Trace%20Comparison%20Result.html
+
+Patient Journey 4
+https://htmlpreview.github.io/?https://github.com/thangixd/TracEX/blob/main/docs/bachelor-thesis-event-log-extraction-from-natural-text-with-gen-ai/EVALUATION_DATA/PJ4_EVAL/PJ4_1/Trace%20Comparison%20Result.html
+https://htmlpreview.github.io/?https://github.com/thangixd/TracEX/blob/main/docs/bachelor-thesis-event-log-extraction-from-natural-text-with-gen-ai/EVALUATION_DATA/PJ4_EVAL/PJ4_2/Trace%20Comparison%20Result.html
+https://htmlpreview.github.io/?https://github.com/thangixd/TracEX/blob/main/docs/bachelor-thesis-event-log-extraction-from-natural-text-with-gen-ai/EVALUATION_DATA/PJ4_EVAL/PJ4_3/Trace%20Comparison%20Result.html
+https://htmlpreview.github.io/?https://github.com/thangixd/TracEX/blob/main/docs/bachelor-thesis-event-log-extraction-from-natural-text-with-gen-ai/EVALUATION_DATA/PJ4_EVAL/PJ4_4/Trace%20Comparison%20Result.html
+https://htmlpreview.github.io/?https://github.com/thangixd/TracEX/blob/main/docs/bachelor-thesis-event-log-extraction-from-natural-text-with-gen-ai/EVALUATION_DATA/PJ4_EVAL/PJ4_5/Trace%20Comparison%20Result.html
+
+Patient Journey 5
+https://htmlpreview.github.io/?https://github.com/thangixd/TracEX/blob/main/docs/bachelor-thesis-event-log-extraction-from-natural-text-with-gen-ai/EVALUATION_DATA/PJ5_EVAL/PJ5_1/Trace%20Comparison%20Result.html
+https://htmlpreview.github.io/?https://github.com/thangixd/TracEX/blob/main/docs/bachelor-thesis-event-log-extraction-from-natural-text-with-gen-ai/EVALUATION_DATA/PJ5_EVAL/PJ5_2/Trace%20Comparison%20Result.html
+https://htmlpreview.github.io/?https://github.com/thangixd/TracEX/blob/main/docs/bachelor-thesis-event-log-extraction-from-natural-text-with-gen-ai/EVALUATION_DATA/PJ5_EVAL/PJ5_3/Trace%20Comparison%20Result.html
+https://htmlpreview.github.io/?https://github.com/thangixd/TracEX/blob/main/docs/bachelor-thesis-event-log-extraction-from-natural-text-with-gen-ai/EVALUATION_DATA/PJ5_EVAL/PJ5_4/Trace%20Comparison%20Result.html
+https://htmlpreview.github.io/?https://github.com/thangixd/TracEX/blob/main/docs/bachelor-thesis-event-log-extraction-from-natural-text-with-gen-ai/EVALUATION_DATA/PJ5_EVAL/PJ5_5/Trace%20Comparison%20Result.html
